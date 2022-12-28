@@ -2,7 +2,7 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-My name is Andy Mong and I am aspired to be a Full Stack Web Developer.<br>
+My current aspiration is to become a Full Stack Web Developer.<br>
 My home computer is ready with the relevant training materials and tool stack for this venture.
 
 ---
