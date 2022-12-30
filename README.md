@@ -2,8 +2,8 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-My current aspiration is to become a Full Stack Web Developer.<br>
-My home computer is ready with the relevant training materials and tool stack for this venture.
+My current aspiration is to become a Web Developer Advocate for my team so that we can work with the Application Systems at Insignia Financial.<br>
+My home computer is ready with the relevant training materials and latest development tool stack for this venture.
 
 ---
 
@@ -17,17 +17,25 @@ My home computer is ready with the relevant training materials and tool stack fo
   <img alt="Scss" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
  </p>
 
-- In the 1st 3-5 months, my aim is to get to a good starting point, using tutorials and projects available from YouTube.
-- In the next 3-6 months, I will be using better training materials from Udemy and LinkedIn to attain a more Advanced skill level.
-- I will showcase my projects and coding journey here and in my LinkedIn profile.
+- In the 1st 3-6 months, I have acquired a basic understanding od the skill requirements, using tutorials and projects available from YouTube.
+- In the next 3-6 months, I wiil delve into more Advanced topics using training materials from Udemy and LinkedIn.
+- I will showcase my projects and coding journey here in GitHub and in my LinkedIn profile.
 
 ---
 
 ### My Projects 🤞
 
-<b>Hello World Project</b><br>
-The Hello World project is a time-honored tradition in computer programming.<br>
-It is a simple exercise that gets you started when learning something new.<br>
+<b>Hello World App</b><br>
+The Hello World App is a time-honored tradition and simple exercise in computer programming to get started when learning something new.<br>
 Github Repo: <a href="https://github.com/andym388/a01_1hello-world">Source code for this React App</a><br>
 Github Site: <a href="https://andym388.github.io/a01_1hello-world/">Hello World Page</a><br>
+
+<b>Team Profile App</b><br>
+The simple Team Profile App displays the information about your Team Members such as the name, the job and a photo image.<br>
+When your mouse hover over the trash icon, it turns red.<br>
+When you click on the trash icon beside each profile, it removes that profile from the list of profiles.<br>
+The Team Profile Data is stored as a JSON array having objects, so if you refresh the page, it will get the data back and repopulate the page with the profiles.<br>
+Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
+Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profile Page</a><br>
+
 
