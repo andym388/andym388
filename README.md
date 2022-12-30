@@ -17,7 +17,7 @@ My home computer is ready with the relevant training materials and latest develo
   <img alt="Scss" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
  </p>
 
-- In the 1st 3-6 months, I have acquired a basic understanding od the skill requirements, using tutorials and projects available from YouTube.
+- In the 1st 3-6 months, I have acquired a basic understanding of the skill requirements, using tutorials and projects available from YouTube.
 - In the next 3-6 months, I wiil delve into more Advanced topics using training materials from Udemy and LinkedIn.
 - I will showcase my projects and coding journey here in GitHub and in my LinkedIn profile.
 
