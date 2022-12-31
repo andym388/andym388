@@ -2,7 +2,7 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-My current aspiration is to become the Web Development Advocate for my team so that we have sufficient understanding of the skillsets needed to work with the Application Systems at Insignia Financial.<br>
+My current aspiration is to be the Web Development Advocate for transitioning Applications over to the platform of the parent company.<br>
 My home computer is ready with the relevant training materials and latest development tool stack for this venture.
 
 ---
