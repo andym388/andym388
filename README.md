@@ -19,7 +19,7 @@ My home computer is ready with the relevant training materials and latest develo
  </p>
 
 - In the 1st 6 months, I have acquired a basic understanding of the skill requirements, using tutorials and projects available from YouTube.
-- In the next 6 months, I wiil delve into more Advanced topics using training materials from Udemy and LinkedIn.
+- In the next 6 months, I wiil delve into more Advanced topics using training materials from LinkedIn abd Udemy.
 - I will showcase my projects and coding journey here in GitHub and in my LinkedIn profile.
 
 ---
