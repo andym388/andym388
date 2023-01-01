@@ -34,10 +34,16 @@ Github Site: <a href="https://andym388.github.io/a01_1hello-world/">Hello World 
 <b>Team Profile App</b><br>
 This simple Team Profile App displays the information about your Team Members such as the name, the job and a photo image.<br>
 When your mouse hover over the trash icon, it turns red.<br>
-When you click on the trash icon beside each profile, it removes that profile from the list of profiles.<br>
+When you click on the trash icon beside each profile, it removes that person's profile from the list of profiles.<br>
 The Team Profile Data is stored as a JSON array having objects, so if you refresh the page, it will get the data back and repopulate the page with the profiles.<br>
 Search functionality is also available such that when you type out some Search Characters, it filters and display the matching Names.<br>
 Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
 Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profile Page</a><br>
 
-
+<b>Weather Wizard</b><br>
+Weather Wizard uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.
+When you can enter in a city, the app will fetch and display the weather data for that city.
+When loading weather data is occurring, a message will be displayed.
+When the loading of weather data encounter issues, catch the error event and throw a proper error message so that the App will not crash the web and return nasty, technical messages.
+Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
+Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather Wizard Page</a><br>
