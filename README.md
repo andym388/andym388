@@ -2,7 +2,7 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-My current aspiration is to act as the Web Development Advocate when migrating business processes to the application platform of our parent company.<br>
+My current aspiration is to act as the Web Development Advocate in the migration of business processes to the application platform of our parent company.<br>
 My home computer is ready with the relevant training materials and latest development tool stack for this venture.
 
 ---
