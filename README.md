@@ -7,7 +7,7 @@ My home computer is ready with the relevant training materials and latest develo
 
 ---
 
-### What do I do?
+### What do I do? 👇
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
