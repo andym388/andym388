@@ -10,7 +10,7 @@ My home computer is ready with the relevant training materials and latest develo
 ### What do I do? 😊
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=blue&style=for-the-badge" />
   <img alt="React Router" src="https://img.shields.io/badge/React Router-B1361E?logo=react router&logoColor=white&style=for-the-badge" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-73398D?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" />
