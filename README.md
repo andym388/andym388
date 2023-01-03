@@ -14,7 +14,7 @@ My home computer is ready with the relevant training materials and latest develo
   <img alt="React Router" src="https://img.shields.io/badge/React Router-B1361E?logo=react router&logoColor=white&style=for-the-badge" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-73398D?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express.js&logoColor=white&style=for-the-badge" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-333333?logo=express.js&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-44A833?logo=MongoDB&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-141E24?logo=javascript&logoColor=yellow&style=for-the-badge" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
