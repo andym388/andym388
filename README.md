@@ -23,7 +23,7 @@ My home computer is ready with the relevant training materials and latest develo
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge" />
-  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black&style=for-the-badge" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-40E0D0?logo=render&logoColor=black&style=for-the-badge" />
  </p>
 
 - 🤞 In the 1st 6 months, I have acquired a basic understanding of the skill requirements, using tutorials and projects available from YouTube.
