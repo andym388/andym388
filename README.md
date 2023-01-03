@@ -21,7 +21,7 @@ My home computer is ready with the relevant training materials and latest develo
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Scss" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-FF5A00?logo=git&logoColor=white&style=for-the-badge" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?logo=github&logoColor=white&style=for-the-badge" />
   <img alt="Railway" src="https://img.shields.io/badge/Railway-E10600?logo=railway&logoColor=white&style=for-the-badge" />
   <img alt="Render" src="https://img.shields.io/badge/Render-FFA600?logo=render&logoColor=white&style=for-the-badge" />
  </p>
