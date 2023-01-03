@@ -22,8 +22,8 @@ My home computer is ready with the relevant training materials and latest develo
   <img alt="Scss" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-FF5A00?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?logo=github&logoColor=white&style=for-the-badge" />
-  <img alt="Railway" src="https://img.shields.io/badge/Railway-E10600?logo=railway&logoColor=white&style=for-the-badge" />
-  <img alt="Render" src="https://img.shields.io/badge/Render-FFC300?logo=render&logoColor=white&style=for-the-badge" />
+  <img alt="Railway" src="https://img.shields.io/badge/Railway-708090?logo=railway&logoColor=white&style=for-the-badge" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-20B2AA?logo=render&logoColor=white&style=for-the-badge" />
  </p>
 
 - 🤞 In the 1st 6 months, I have acquired a basic understanding of the skill requirements, using tutorials and projects available from YouTube.
