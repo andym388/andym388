@@ -10,7 +10,7 @@ My home computer is ready with the relevant training materials and latest develo
 ### What do I do? 😊
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=blue&style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=cyan&style=for-the-badge" />
   <img alt="React Router" src="https://img.shields.io/badge/React Router-B1361E?logo=react router&logoColor=white&style=for-the-badge" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-73398D?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" />
@@ -23,7 +23,7 @@ My home computer is ready with the relevant training materials and latest develo
   <img alt="Git" src="https://img.shields.io/badge/Git-FF5A00?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?logo=github&logoColor=white&style=for-the-badge" />
   <img alt="Railway" src="https://img.shields.io/badge/Railway-E10600?logo=railway&logoColor=white&style=for-the-badge" />
-  <img alt="Render" src="https://img.shields.io/badge/Render-FFA600?logo=render&logoColor=white&style=for-the-badge" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-FFD700?logo=render&logoColor=white&style=for-the-badge" />
  </p>
 
 - 🤞 In the 1st 6 months, I have acquired a basic understanding of the skill requirements, using tutorials and projects available from YouTube.
