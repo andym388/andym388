@@ -12,18 +12,18 @@ My home computer is ready with the relevant training materials and latest develo
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="React Router" src="https://img.shields.io/badge/React Router-B1361E?logo=react router&logoColor=white&style=for-the-badge" />
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-000000?logo=redux&logoColor=white&style=for-the-badge" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-73398D?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express.js&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-44A833?logo=MongoDB&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-141E24?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Scss" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-FF5A00?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
-  <img alt="Railway" src="https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white&style=for-the-badge" />
-  <img alt="Render" src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white&style=for-the-badge" />
+  <img alt="Railway" src="https://img.shields.io/badge/Railway-088142?logo=railway&logoColor=white&style=for-the-badge" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-0078F0?logo=render&logoColor=white&style=for-the-badge" />
  </p>
 
 - 🤞 In the 1st 6 months, I have acquired a basic understanding of the skill requirements, using tutorials and projects available from YouTube.
