@@ -34,7 +34,9 @@ My home computer is ready with the relevant training materials and latest develo
 
 ### My Projects 👍
 
-<b>Team Profile App</b> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" /><br>
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+
+<b>Team Profile App</b><br>
 This simple Team Profile App displays the information about your Team Members such as the name, the job and a photo image.<br>
 When your mouse hover over the trash icon, it turns red.<br>
 When you click on the trash icon beside each profile, it removes that person's profile from the list of profiles.<br>
@@ -43,7 +45,7 @@ Search functionality is also available such that when you type out some Search C
 Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
 Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profile Page</a><br>
 
-<b>Weather Wizard</b> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" /><br>
+<b>Weather Wizard</b><br>
 Weather Wizard uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
 When you can enter in a city, the app will fetch and display the weather data for that city.<br>
 When loading weather data is occurring, a message will be displayed.<br>
