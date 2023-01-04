@@ -47,7 +47,7 @@ Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profil
 
 <b>Weather Wizard</b><br>
 Weather Wizard uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
-When you can enter in a city, the app will fetch and display the weather data for that city.<br>
+When you enter in a city, the app will fetch and display the weather data for that city.<br>
 When loading weather data is occurring, an interim message will be displayed.<br>
 When the loading of weather data encounter issues, catch the error event and throw a proper error message so that the App will not crash the web and return nasty, technical messages.<br>
 Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
