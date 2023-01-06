@@ -2,8 +2,8 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-My current aspiration is to be the Web Development Advocate when business processes are migrated to the application platform of our parent company.<br>
-My home computer is ready with the relevant training materials and latest development tool stack for this venture.
+My current aspiration is to be the Web Development Advocate in the migration of business processes to the application platform of our parent company.<br>
+My hobby is to continously upgrade my home computer environment with the latest Windows O/S and trending technologies to learn about virtualisation, networking, security and software development.<br>
 
 ---
 
@@ -27,7 +27,7 @@ My home computer is ready with the relevant training materials and latest develo
  </p>
 
 - 🤞 In the 1st 6 months, I have acquired a basic understanding of the skill requirements, using tutorials and projects available from YouTube.
-- ⚗️ In the next 6 months, I wiil delve into more Advanced topics using training materials from LinkedIn and Udemy.
+- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux, React Router and Material UI. I will also attempt to learn about developing Microservices App using NodeJS, React and Docker.
 - ✨ I will showcase my projects and coding journey here in GitHub and it will be accessible from my LinkedIn profile.
 
 ---
@@ -47,8 +47,8 @@ Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profil
 
 <b>Weather Wizard</b><br>
 Weather Wizard uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
-When you enter in a city, the app will fetch and display the weather data for that city.<br>
+When you enter in thw name of a city, the app will fetch and display the weather data for that city.<br>
 When loading weather data is occurring, an interim message will be displayed.<br>
-When the loading of weather data encounter issues, catch the error event and throw a proper error message so that the App will not crash the web and return nasty, technical messages.<br>
+When the weather app encounter issues, handle the error event so that the processing will be terminated by throwing a proper error message.<br>
 Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
 Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather Wizard Page</a><br>
