@@ -27,7 +27,7 @@ My hobby is to continously upgrade my home computer environment with the latest 
  </p>
 
 - 🤞 In the 1st 6 months, I have acquired a basic understanding of the skill requirements, using tutorials and projects available from YouTube.
-- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux, React Router and Material UI. I will also attempt to learn about developing Microservices App using NodeJS, React and Docker.
+- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux, React Router and Material UI. I will also attempt to learn about developing Cloud-based Microservices App using NodeJS, React and Docker.
 - ✨ I will showcase my projects and coding journey here in GitHub and it will be accessible from my LinkedIn profile.
 
 ---
