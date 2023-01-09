@@ -2,8 +2,8 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-My current aspiration is to be the Web Development Advocate in the migration of business processes to the application platform of my parent company. 
-My hobby is to continously upgrade my home computer environment with the latest Windows O/S and trending technologies to learn about virtualisation, networking, security and software development.<br>
+My current aspiration is to be the Web Development Advocate when business processes are transformed to the application platform of my parent company. <br>
+My hobby is to continously upgrade my home computer hardware, O/S and networking environment so that I can experimwsnt with virtualisation, networking, security, software development and trending technologies.<br>
 
 ---
 
