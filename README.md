@@ -2,8 +2,8 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-My current aspiration is to be the Web Development Advocate when business processes are transformed to the application platform of my parent company. <br>
-My hobby is to continously upgrade my home computer hardware, O/S and networking environment so that I can experimwsnt with virtualisation, networking, security, software development and trending technologies.<br>
+My current aspiration is to be the Web Development Advocate in the transformation of business data and processes to the application platform of my parent company.<br>
+My hobby is to continously upgrade my home computer hardware, O/S and networking environment for experimentation with virtualisation, networking, security, software development and trending technologies.<br>
 
 ---
 
@@ -26,7 +26,7 @@ My hobby is to continously upgrade my home computer hardware, O/S and networking
   <img alt="Render" src="https://img.shields.io/badge/Render-3CB371?logo=render&logoColor=white&style=for-the-badge" />
  </p>
 
-- 🤞 In the 1st 6 months, I have acquired a basic understanding of the skill requirements, using tutorials and projects available from YouTube.
+- 🤞 In the 1st 6 months, I have acquired a basic understanding of the skill requirements to be a web developer using tutorials and projects available from YouTube.
 - ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux, React Router and Material UI. I will also attempt to learn about developing Cloud-based Microservices App using NodeJS, React and Docker.
 - ✨ I will showcase my projects and coding journey here in GitHub and it will be accessible from my LinkedIn profile.
 
