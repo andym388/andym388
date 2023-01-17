@@ -37,7 +37,7 @@ My hobby is to continously upgrade my home computer hardware, O/S and networking
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 
 <b>Team Profile App</b><br>
-This simple Team Profile App displays the information about your Team Members such as the name, the job and a photo image.<br>
+This simple Team Profile App displays the information about your Team Members such as their name, job and a photo image.<br>
 When your mouse hover over the trash icon, it turns red.<br>
 When you click on the trash icon beside each profile, it removes that person's profile from the list of profiles.<br>
 The Team Profile Data is stored as a JSON array having objects, so if you refresh the page, it will get the data back and repopulate the page with the profiles.<br>
