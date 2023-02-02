@@ -2,7 +2,7 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-My hobby is to continously upgrade my home computer hardware, O/S and networking environment for experimentation with virtualisation, networking, security, databases, software development and latest technology trends to improve business outcomes<br>
+My hobby is to continously upgrade my home computer hardware, O/S and networking environment for experimentation with virtualisation, networking, security, databases, software development and latest technology trends to improve business outcomes.<br>
 My current inpiration is to be the Web Development Advocate in the migration of business data and processes to the digital platform of my parent company.<br>
 
 ---
