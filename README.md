@@ -47,16 +47,17 @@ Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profil
 
 <b>★ Weather Wizard</b><br>
 Weather Wizard uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
-When you enter in thw name of a city, the app will fetch and display the weather data for that city.<br>
+When you enter in the name of a city, the app will fetch and display the weather data for that city.<br>
+When the weather app encounter issues, error event handling will occur and an error message will be displayed.<br>
 When loading weather data is occurring, an interim message will be displayed.<br>
-When warm weather above 15ºC is detected, a warm weather background will be displayed.<br>
-When the weather app encounter issues, error event handling will occur and a proper error message will be displayed.<br>
+When temperature is above 15ºC, a warm weather background will be displayed.<br>
 Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
 Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather Wizard Page</a><br>
 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
 <b>★ Weather Node</b><br>
-A good way to learn Node.js is to re-code the React Weather Wizard App above in Node.js.<br>
-The differences are:<br>
-- A server-side request will be used to fetch the weather data from the <a href="https://openweathermap.org/api">OpenWeatherMap API</a>.<br>
+A good way to compare Node.js with React is to code the Weather App in both languages and then identify their differences which are:<br>
+▶️ Node.js Apps operate in the server-side JavaScript environment, so full stack hosting services such as Railway and Render is required.<br>
+▶️ A HTTP request is used to fetch the weather data from the <a href="https://openweathermap.org/api">OpenWeatherMap Database</a> via an API Call.<br>
+
