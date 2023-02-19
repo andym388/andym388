@@ -46,7 +46,7 @@ Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code
 Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profile Page</a><br>
 
 <b>★ Weather Wizard</b><br>
-Weather Wizard uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
+Weather Wizard is a single-page web App that uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
 When you enter in the name of a city, the app will fetch and display the weather data for that city.<br>
 When the weather app encounter issues, error event handling will occur and an error message will be displayed.<br>
 When loading weather data is occurring, an interim message will be displayed.<br>
