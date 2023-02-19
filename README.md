@@ -57,7 +57,7 @@ Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather W
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
 <b>★ Weather Node</b><br>
-A good way to learn Node.js and React is to code the Weather App in both languages and then compare their differences which are:<br>
-▶️ Node.js Apps operate in the server-side JavaScript environment, so full stack hosting via services such as Railway and Render is required.<br>
+The React Weaher App is re-written in Node.js so that we can compare their differences in approach which are:<br>
+▶️ Node.js App operates in the server-side JavaScript environment, so a full stack hosting service such as Railway and Render is required.<br>
 ▶️ A HTTP request is used to fetch the weather data from the <a href="https://openweathermap.org/api">OpenWeatherMap Database</a> via an API Call.<br>
 
