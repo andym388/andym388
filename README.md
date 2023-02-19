@@ -2,8 +2,8 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-My hobby is to continously upgrade my home computer hardware, O/S and networking environment for experimentation with virtualisation, networking, security, databases, software development and latest technology trends to improve business outcomes.<br>
-My current inpiration is to be the Web Development Advocate in the migration of business data and processes to the digital platform of my parent company.<br>
+My hobby is to continously upgrade my home computer hardware, O/S and networking environment for experimentation with virtualisation, networking, security, databases, software development and catching up on latest technology trends for improving business outcomes.<br>
+My current determination is to be the Web Development Advocate in the migration of business data and processes to the digital platform of my parent company.<br>
 
 ---
 
@@ -49,6 +49,14 @@ Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profil
 Weather Wizard uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
 When you enter in thw name of a city, the app will fetch and display the weather data for that city.<br>
 When loading weather data is occurring, an interim message will be displayed.<br>
-When the weather app encounter issues, handle the error event so that the processing will be terminated by throwing a proper error message.<br>
+When warm weather above 15ºC is detected, a warm weather background will be displayed.<br>
+When the weather app encounter issues, error event handling will occur and a proper error message will be displayed.<br>
 Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
 Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather Wizard Page</a><br>
+
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+
+<b>★ Weather Node</b><br>
+A good way to learn Node.js is to re-code the React Weather Wizard App above in Node.js.<br>
+The differences are:<br>
+- A server-side request will be used to fetch the weather data from the <a href="https://openweathermap.org/api">OpenWeatherMap API</a>.<br>
