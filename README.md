@@ -57,7 +57,8 @@ Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather W
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
 <b>★ Weather Node</b><br>
-The React Weaher App is re-written in Node.js so that we can compare their differences in approach which are:<br>
-▶️ Node.js App operates in the server-side JavaScript environment, so a full stack hosting service such as Railway and Render is required.<br>
+The React Weaher App above is re-written in Node.js so that we can compare their differences in approach which are:<br>
+▶️ Node.js App is a server-side JavaScript App with access to the O/S, databases, file system and everything else to build a fully-functional App.<br>
+▶️ Hence, it needs to be hosted on a full-stack hosting service such as Railway and Render. It is not a ststic website that can just be hosted via GitHub Page.<br>
 ▶️ A HTTP request is used to fetch the weather data from the <a href="https://openweathermap.org/api">OpenWeatherMap Database</a> via an API Call.<br>
-
+▶️ In contract, the React App is a client-side App that just obtain the weather data from the browser via an API call and then display the data onto the browser.<br>
