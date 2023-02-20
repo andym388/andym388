@@ -47,6 +47,7 @@ Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profil
 
 <b>★ Weather Wizard</b><br>
 Weather Wizard is a single-page web App that uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
+It is just a static website that can be hosted via GitHub Page.<br>
 When you enter in the name of a city, the app will fetch and display the weather data for that city.<br>
 When the weather app encounter an error event, an error message will be displayed.<br>
 When loading of weather data is occurring, an interim message will be displayed.<br>
@@ -58,7 +59,7 @@ Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather W
 
 <b>★ Weather Node</b><br>
 The React Weaher App above is re-written in Node.js so that we can compare their differences in approach which are:<br>
-▶️ Node.js App is a server-side JavaScript App with access to the O/S, databases, file system and everything else to build a fully-functional App.<br>
-▶️ Hence, it needs to be hosted on a full-stack hosting service such as Railway and Render. It is not a static website that can just be hosted via GitHub Page.<br>
+▶️ Node.js App is a server-side App with access to the O/S, databases, file system and everything else to build a fully-functional App.<br>
+▶️ Hence, it needs to be hosted on a full-stack hosting service such as Railway and Render.<br>
 ▶️ A HTTP request is used to fetch the weather data from the <a href="https://openweathermap.org/api">OpenWeatherMap Database</a> via an API Call.<br>
-▶️ In contract, the React App is a client-side App that obtain the weather data via an API call and then just display the data onto the browser.<br>
+▶️ In contract, the React App is a client-side App that just obtain the weather data via an API call and then display the data onto the browser.<br>
