@@ -26,7 +26,7 @@ My current determination is to be the Web Development Advocate in the migration 
   <img alt="Render" src="https://img.shields.io/badge/Render-3CB371?logo=render&logoColor=white&style=for-the-badge" />
  </p>
 
-- 🤞 In the 1st 6 months, I have acquired a basic understanding of the skill requirements to be a web developer using tutorials and projects available from YouTube.
+- 🤞 In the 1st 6-12 months, I have acquired a basic understanding of the skill requirements to be a web developer using tutorials and projects available from YouTube.
 - ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux, React Router and Material UI. I will also attempt to learn about developing Cloud-based Microservices App using NodeJS, React and Docker.
 - ✨ I will showcase my projects and coding journey here in GitHub and it will be accessible from my LinkedIn profile.
 
@@ -47,7 +47,7 @@ Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profil
 
 <b>★ Weather Wizard</b><br>
 Weather Wizard is a single-page web App that uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
-It is just a static website that can be hosted via GitHub Page.<br>
+It can be deployed and hosted on a static website such as GitHub Page.<br>
 When you enter in the name of a city, the app will fetch and display the weather data for that city.<br>
 When the weather app encounter an error event, an error message will be displayed.<br>
 When loading of weather data is occurring, an interim message will be displayed.<br>
@@ -61,5 +61,5 @@ Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather W
 The React Weaher App above is re-written in Node.js so that we can compare their differences in approach which are:<br>
 ▶️ Node.js App is a server-side App with access to the O/S, databases, file system and everything else to build a fully-functional App.<br>
 ▶️ Hence, it needs to be hosted on a full-stack hosting service such as Railway and Render.<br>
-▶️ A HTTP request is used to obtain the weather data from the OpenWeatherMap Database via an API Call.<br>
+▶️ A HTTP request is used to obtain the weather data from the OpenWeatherMap Database.<br>
 ▶️ In contract, the React App is a client-side App that just obtain the weather data via an API call and then display the data onto the browser.<br>
