@@ -37,17 +37,19 @@ My current determination is to be the Web Development Advocate in the migration 
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 
 <b>★ Team Profile App</b><br>
-This simple Team Profile App displays the information about your Team Members such as their name, job and a photo image.<br>
+This Team Profile App is a good, simple, single-page web App for beginners to pick up ski;lls on React quickly.
+It can be deployed and hosted as a static website using GitHub Page.<br>
+This App displays the information about your Team Members such as their name, job and a photo image.<br>
 When your mouse hover over the trash icon, it turns red.<br>
 When you click on the trash icon beside each profile, it removes that person's profile from the list of profiles.<br>
-The Team Profile Data is stored as a JSON array having objects, so if you refresh the page, it will get the data back and repopulate the page with the profiles.<br>
+The Team Profile Data is stored as a JSON array having objects, so if you refresh the page, it will get the data back and repopulate the page.<br>
 Search functionality is also available such that when you type out some Search Characters, it filters and display the matching Names.<br>
 Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
 Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profile Page</a><br>
 
 <b>★ Weather Wizard</b><br>
 Weather Wizard is a single-page web App that uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
-It can be deployed and hosted on a static website such as GitHub Page.<br>
+It can be deployed and hosted as a static website using GitHub Page.<br>
 When you enter in the name of a city, the app will fetch and display the weather data for that city.<br>
 When the weather app encounter an error event, an error message will be displayed.<br>
 When loading of weather data is occurring, an interim message will be displayed.<br>
