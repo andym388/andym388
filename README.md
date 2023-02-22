@@ -37,7 +37,7 @@ My current determination is to be the Web Development Advocate in the migration 
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 
 <b>★ Team Profile App</b><br>
-This Team Profile App is a good, simple, single-page web App for beginners to pick up skills on React quickly.<br>
+This Team Profile App is a simple, single-page web App that beginners can attempt to pick up basic skills on React quickly.<br>
 It can be deployed and hosted as a static website using GitHub Page.<br>
 This App displays the information about your Team Members such as their name, job and a photo image.<br>
 When your mouse hover over the trash icon, it turns red.<br>
