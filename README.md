@@ -44,8 +44,8 @@ When your mouse hover over the trash icon, it turns red.<br>
 When you click on the trash icon beside each profile, it removes that person's profile from the list of profiles.<br>
 The Team Profile Data is stored as a JSON array having objects, so if you refresh the page, it will get the data back and repopulate the page.<br>
 Search functionality is also available such that when you type out some Search Characters, it filters and display the matching Names.<br>
-Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
 Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profile Page</a><br>
+Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
 
 <b>★ Weather Wizard</b><br>
 Weather Wizard is a single-page web App that uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
@@ -54,14 +54,14 @@ When you enter in the name of a city, the app will fetch and display the weather
 When the weather app encounter an error event, an error message will be displayed.<br>
 When loading of weather data is occurring, an interim message will be displayed.<br>
 When temperature is above 15ºC, a warm weather background will be displayed.<br>
-Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
 Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather Wizard Page</a><br>
+Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
 <b>★ Weather Node</b><br>
-The React Weaher App above is re-written in Node.js so that we can compare their differences in approach which are:<br>
+The React Weather App above is re-written in Node.js so that we can compare their differences in approach which are:<br>
 ▶️ Node.js App is a server-side App with access to the O/S, databases, file system and everything else to build a fully-functional App.<br>
 ▶️ Hence, it needs to be hosted on a full-stack hosting service such as Railway and Render.<br>
 ▶️ A HTTP request is used to obtain the weather data from the OpenWeatherMap Database.<br>
-▶️ In contract, the React App is a client-side App that just obtain the weather data via an API call and then display the data onto the browser.<br>
+▶️ In contract, the React App is a client-side App that just uses an API call to obtain/display the weather data from/onto the browser.<br>
