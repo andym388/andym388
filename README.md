@@ -2,8 +2,8 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-I am a software development enthusiast who continously upgrade my home computer hardware, O/S and networking environment for experimentation with virtualisation, networking, security, databases and software development with the aim to keep up to date on latest technology trends for improving business outcomes.<br>
-My current determination is to be the web and cloud Development Advocate in the migration of business data and processes to the digital platform of my parent company.<br>
+I am a software development enthusiast who continously upgrade my home computer hardware, O/S and networking environment to experiment with virtualisation, networking, security, databases and software development so as to keep up to date on latest technology trends for improving business outcomes.<br>
+My current determination is to be able to act as the web and cloud Development Advocate in the migration of business data and processes to the digital platform of my parent company.<br>
 
 ---
 
