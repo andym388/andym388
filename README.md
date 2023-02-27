@@ -26,6 +26,7 @@ My current determination is to be the Web and cloud Development Advocate in the 
   <img alt="Render" src="https://img.shields.io/badge/Render-3CB371?logo=render&logoColor=white&style=for-the-badge" />
  </p>
 
+Currently, I am focusing on acquiring the above skillsets.
 - 🤞 In the 1st 6-12 months, I have acquired a basic understanding of the skill requirements to be a web developer using tutorials and projects available from YouTube.
 - ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux, React Router and Material UI. I will also attempt to learn about developing Cloud-based Microservices App using NodeJS, React and Docker.
 - ✨ I will showcase my projects and coding journey here in GitHub and it will be accessible from my LinkedIn profile.
