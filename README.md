@@ -2,8 +2,8 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-My hobby is to continously upgrade my home computer hardware, O/S and networking environment for experimentation with virtualisation, networking, security, databases, software development and catching up on latest technology trends for improving business outcomes.<br>
-My current determination is to be the Web Development Advocate in the migration of business data and processes to the digital platform of my parent company.<br>
+I am an software development enthusiast who continously upgrade my home computer hardware, O/S and networking environment for experimentation with virtualisation, networking, security, databases and software development with the aim to keep up to date on latest technology trends for improving business outcomes.<br>
+My current determination is to be the Web and cloud Development Advocate in the migration of business data and processes to the digital platform of my parent company.<br>
 
 ---
 
