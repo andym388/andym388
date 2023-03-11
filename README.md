@@ -37,7 +37,7 @@ Currently, I am focusing on acquiring the above skillsets.
 
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 
-<b>★ Team Profile App</b><br>
+<b>⭐ Team Profile App</b><br>
 This Team Profile App is a simple, single-page web App that beginners can attempt to pick up basic skills on React quickly.<br>
 It can be deployed and hosted as a static website using GitHub Page.<br>
 This App displays the information about your Team Members such as their name, job and a photo image.<br>
@@ -48,7 +48,7 @@ Search functionality is also available such that when you type out some Search C
 Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profile Page</a><br>
 Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
 
-<b>★ Weather Wizard</b><br>
+<b>⭐ Weather Wizard</b><br>
 Weather Wizard is a single-page web App that uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
 It can be deployed and hosted as a static website using GitHub Page.<br>
 When you enter in the name of a city, the app will fetch and display the weather data for that city.<br>
@@ -60,7 +60,7 @@ Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source co
 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
-<b>★ Weather Node</b><br>
+<b>⭐ Weather Node</b><br>
 The React Weather App above is re-written in Node.js so that we can compare their differences in approach which are:<br>
 ▶️ Node.js App is a server-side App with access to the O/S, databases, file system and everything else to build a fully-functional App.<br>
 ▶️ Hence, it needs to be hosted on a full-stack hosting service such as Railway and Render.<br>
