@@ -59,7 +59,8 @@ Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather W
 Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
 
 <b>⭐ Cooking Recipe Finder</b><br>
-The Cooking Receipe Finder App consist of:<br>
+Cooking Receipe Finder is a single-page web App that uses the <a href="https://spoonacular.com/food-api">Spoonacular API</a> to fetch Recipe data.<br>
+The App consist of:<br>
 ✅ Parts (or renders) such as Home Navbar, Cuisine Category, Search and MealDaily that appear on every page.<br>
 ✅ Result Pages that are implemented as Route Components of the React Router.<br>
 When you click on each Part, the URL in the browser changes; only the Result Page content is changed instead of altering the entire page.<br>
