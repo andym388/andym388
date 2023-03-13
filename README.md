@@ -58,6 +58,19 @@ When temperature is above 15ºC, a warm weather background will be displayed.<br
 Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather Wizard Page</a><br>
 Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
 
+<b>⭐ Cooking Recipe Finder</b><br>
+The Cooking Receipe Finder App consist of:
+✅ Parts (or renders) such as Home Navbar, Cuisine Category, Search and MealDaily that appear on every page.<br>
+✅ Result Pages that contain all the Routes of the React Router.<br>
+When you click on each Part, the URL in the browser changes; only the Result Page content is changed instead of altering the entire page.<br>
+When you click on  the Home Navbar, the Popular and Veggie components will be displayed as a Carousel Slider for the 1st 10 recipes found.<br>
+When you click on a Cuisine Category which is implemented as a Search Link Icon, the Cuisine Page will be displayed as a Data Grid.<br>
+When you enter the Recipe Search Term and click on the Search button, the Searched Result Page will be displayed as a Data Grid.<br>
+When you ebter the Daily Meal Calories Target and click on the MealDaily button, the MealList Result Page will be displayed as a Dsta Grid.<br>
+When you click on a Recipe, the Recipe component will be displayed as an Information Page with buttons for displaying Ingredients and Cooking Instructions.<br>
+Github Site: <br>
+Github Repo: <br>
+
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
 <b>⭐ Weather Node</b><br>
@@ -66,3 +79,5 @@ The React Weather App above is re-written in Node.js so that we can compare thei
 ▶️ Hence, it needs to be hosted on a full-stack hosting service such as Railway and Render.<br>
 ▶️ A HTTP request is used to obtain the weather data from the OpenWeatherMap Database.<br>
 ▶️ In contract, the React App is a client-side App that just uses an API call to obtain/display the weather data from/onto the browser.<br>
+Github Site: <br>
+Github Repo: <br>
