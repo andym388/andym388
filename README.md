@@ -61,7 +61,7 @@ Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source co
 <b>⭐ Cooking Recipe Finder</b><br>
 The Cooking Receipe Finder App consist of:<br>
 ✅ Parts (or renders) such as Home Navbar, Cuisine Category, Search and MealDaily that appear on every page.<br>
-✅ Result Pages that contain all the Routes of the React Router.<br>
+✅ Result Pages that contain all the Route Components of the React Router.<br>
 When you click on each Part, the URL in the browser changes; only the Result Page content is changed instead of altering the entire page.<br>
 When you click on  the Home Navbar, the Popular and Veggie components will be displayed as a Carousel Slider for the 1st 10 recipes found.<br>
 When you click on a Cuisine Category which is implemented as a Search Link Icon, the Cuisine Page will be displayed as a Data Grid.<br>
