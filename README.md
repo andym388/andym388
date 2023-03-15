@@ -28,7 +28,7 @@ My current determination is to be able to act as the web and cloud transformatio
 
 Currently, I am focusing on acquiring the above skillsets.
 - 🤞 In the 1st 6-12 months, I have acquired a basic understanding of the skill requirements to be a web developer using tutorials and projects available from YouTube.
-- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux, React Router and Material UI. I will also attempt to learn about developing Cloud-based Microservices App using NodeJS, React and Docker.
+- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux, React Router and Material UI. The aim is to be able to develop  Cloud-based Microservices App using NodeJS, React and Docker. I am also researching into Python Automation using ChatGPT and AI assisted coding in Visual Studio Code.
 - ✨ I will showcase my projects and coding journey here in GitHub and it will be accessible from my LinkedIn profile.
 
 ---
@@ -39,7 +39,7 @@ Currently, I am focusing on acquiring the above skillsets.
 
 <b>⭐ Team Profile App</b><br>
 This Team Profile App is a simple, single-page web App that beginners can attempt to pick up basic skills on React quickly.<br>
-It can be deployed and hosted as a static website using GitHub Page.<br>
+It can be deployed in GitHub and hosted as a static website using GitHub Page.<br>
 This App displays the information about your Team Members such as their name, job and a photo image.<br>
 When your mouse hover over the trash icon, it turns red.<br>
 When you click on the trash icon beside each profile, it removes that person's profile from the list of profiles.<br>
@@ -50,7 +50,7 @@ Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code
 
 <b>⭐ Weather Wizard</b><br>
 Weather Wizard is a single-page web App that uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
-It can be deployed and hosted as a static website using GitHub Page.<br>
+It can be deployed in GitHub and hosted as a static website using GitHub Page.<br>
 When you enter in the name of a city, the app will fetch and display the weather data for that city.<br>
 When the weather app encounter an error event, an error message will be displayed.<br>
 When loading of weather data is occurring, an interim message will be displayed.<br>
@@ -60,6 +60,7 @@ Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source co
 
 <b>⭐ Cooking Recipe Finder</b><br>
 Cooking Receipe Finder is a single-page web App that uses the <a href="https://spoonacular.com/food-api">Spoonacular API</a> to fetch Recipe data.<br>
+It can be deployed in GitHub and hosted as a static website using GitHub Page.<br>
 The App consist of:<br>
 ✅ Parts (or renders) such as Home Navbar, Cuisine Category, Search and MealDaily that appear on every page.<br>
 ✅ Result Pages that are implemented as Route Components of the React Router.<br>
@@ -80,5 +81,5 @@ The React Weather Wizard App above is re-written in Node.js so that we can compa
 ▶️ Hence, it needs to be hosted on a full-stack hosting service such as Railway and Render.<br>
 ▶️ A HTTP request is used to obtain the weather data from the OpenWeatherMap Database.<br>
 ▶️ In contract, the React App is a client-side App that just uses an API call to obtain/display the weather data from/onto the browser.<br>
-Github Site: <br>
+Railway Site: <br>
 Github Repo: <br>
