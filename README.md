@@ -16,6 +16,7 @@ My current determination is to be able to act as the web and cloud transformatio
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A24B?logo=MongoDB&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
