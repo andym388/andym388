@@ -10,6 +10,7 @@ My current determination is to be able to act as the web and cloud transformatio
 ### What do I do? 😊
 
 <p>
+  <img alt="Redux" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual studio code&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img alt="React Router" src="https://img.shields.io/badge/React Router-CA4245?logo=react router&logoColor=white&style=for-the-badge" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
@@ -28,7 +29,7 @@ My current determination is to be able to act as the web and cloud transformatio
 
 Currently, I am focusing on acquiring the above skillsets.
 - 🤞 In the 1st 6-12 months, I have acquired a basic understanding of the skill requirements to be a web developer using tutorials and projects available from YouTube.
-- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux, React Router and Material UI. The aim is to be able to develop  Cloud-based Microservices App using NodeJS, React and Docker. I am also researching into Python Automation using ChatGPT and AI assisted coding in Visual Studio Code.
+- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux, React Router and Material UI. The aim is to be able to develop  Cloud-based Microservices App using NodeJS, React and Docker. I will also be researching into Python Automation using ChatGPT and AI assisted coding in Visual Studio Code.
 - ✨ I will showcase my projects and coding journey here in GitHub and it will be accessible from my LinkedIn profile.
 
 ---
