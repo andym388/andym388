@@ -17,6 +17,7 @@ My current determination is to be able to act as the web and cloud transformatio
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A24B?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
@@ -32,7 +33,7 @@ My current determination is to be able to act as the web and cloud transformatio
 
 Currently, I am focusing on acquiring the above skillsets.
 - 🤞 In the 1st 6-12 months, I have acquired a basic understanding of the skill requirements to be a web developer using tutorials and projects available from YouTube.
-- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux, React Router and Material UI. The aim is to be able to develop  Cloud-based Microservices App using NodeJS, React and Docker. I will also be researching into Python Automation using ChatGPT and AI assisted coding in Visual Studio Code.
+- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux, React Router and Material UI. The aim is to be able to develop  Cloud-based Microservices App using NodeJS, React and Docker. I will also be researching into Python Automation using OpenAI/ChatGPT and AI assisted coding in Visual Studio Code.
 - ✨ I will showcase my projects and coding journey here in GitHub and it will be accessible from my LinkedIn profile.
 
 ---
