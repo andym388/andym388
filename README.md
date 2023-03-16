@@ -22,7 +22,7 @@ My current determination is to be able to act as the web and cloud transformatio
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-  <img alt="EJS" src="https://img.shields.io/badge/EJS-581845?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img alt="EJS" src="https://img.shields.io/badge/EJS-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge" />
