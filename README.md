@@ -38,7 +38,7 @@ Currently, I am focusing on acquiring the above skillsets.
 
 ---
 
-### My Projects 👍
+### My Projects 💡🔥💥👍
 
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 
@@ -50,21 +50,21 @@ When your mouse hover over the trash icon, it turns red.<br>
 When you click on the trash icon beside each profile, it removes that person's profile from the list of profiles.<br>
 The Team Profile Data is stored as a JSON array having objects, so if you refresh the page, it will get the data back and repopulate the page.<br>
 Search functionality is also available such that when you type out some Search Characters, it filters and display the matching Names.<br>
-Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profile Page</a><br>
-Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
+► Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profile Page</a><br>
+► Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
 
 <b>⭐ Weather Wizard</b><br>
-Weather Wizard is a single-page web App that uses the <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
+Weather Wizard is a single-page web App that uses the 👉🏼 <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
 It can be deployed in GitHub and hosted as a static website using GitHub Page.<br>
 When you enter in the name of a city, the app will fetch and display the weather data for that city.<br>
 When the weather app encounter an error event, an error message will be displayed.<br>
 When loading of weather data is occurring, an interim message will be displayed.<br>
 When temperature is above 15ºC, a warm weather background will be displayed.<br>
-Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather Wizard Page</a><br>
-Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
+► Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather Wizard Page</a><br>
+► Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
 
 <b>⭐ Cooking Recipe Finder</b><br>
-Cooking Receipe Finder is a single-page web App that uses the <a href="https://spoonacular.com/food-api">Spoonacular API</a> to fetch Recipe data.<br>
+Cooking Receipe Finder is a single-page web App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> to fetch Recipe data.<br>
 It can be deployed in GitHub and hosted as a static website using GitHub Page.<br>
 The App consist of:<br>
 ✅ Parts (or renders) such as Home Navbar, Cuisine Category, Search and MealDaily that appear on every page.<br>
@@ -75,8 +75,8 @@ When you click on a Cuisine Category which is implemented as a Search Link Icon,
 When you enter the Recipe Search Term and click on the Search button, the Searched Result Page will be displayed as a Data Grid.<br>
 When you enter the Daily Meal Calories Target and click on the MealDaily button, the MealList Result Page will be displayed as a Dsta Grid.<br>
 When you click on a Recipe, the Recipe component will be displayed as an Information Page with buttons for displaying Ingredients and Cooking Instructions.<br>
-Github Site: <br>
-Github Repo: <br>
+► Github Site: <br>
+► Github Repo: <br>
 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
@@ -84,7 +84,7 @@ Github Repo: <br>
 The React Weather Wizard App above is re-written in Node.js so that we can compare their differences in approach which are:<br>
 ▶️ Node.js App is a server-side App with access to the O/S, databases, file system and everything else to build a fully-functional App.<br>
 ▶️ Hence, it needs to be hosted on a full-stack hosting service such as Railway and Render.<br>
-▶️ A HTTP request is used to obtain the weather data from the OpenWeatherMap Database.<br>
+▶️ A HTTP request is used to obtain the weather data from the OpenWeatherMap Data Source.<br>
 ▶️ In contract, the React App is a client-side App that just uses an API call to obtain/display the weather data from/onto the browser.<br>
-Railway Site: <br>
-Github Repo: <br>
+► Railway Site: <br>
+► Github Repo: <br>
