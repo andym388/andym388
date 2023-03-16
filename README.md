@@ -38,7 +38,7 @@ Currently, I am focusing on acquiring the above skillsets.
 
 ---
 
-### My Projects 💡🔥💥👍
+### My Projects 💡🔥💥💰🏁👍
 
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 
