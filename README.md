@@ -64,7 +64,7 @@ When temperature is above 15ºC, a warm weather background will be displayed.<br
 ► Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
 
 <b>⭐ Food Recipe Finder</b><br>
-Cooking Receipe Finder is a single-page web App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> to fetch Recipe data.<br>
+Food Receipe Finder is a single-page web App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> to fetch Recipe data.<br>
 It can be deployed in GitHub and hosted as a static website using GitHub Page.<br>
 The App consist of:<br>
 ✅ Parts (or renders) such as Home Navbar, Cuisine Category, Search and MealDaily that appear on every page.<br>
