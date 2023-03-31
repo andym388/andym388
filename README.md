@@ -67,7 +67,7 @@ When temperature is above 15ºC, a warm weather background will be displayed.<br
 Food Receipe Finder is a single-page web App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> to fetch Recipe data.<br>
 It can be deployed in GitHub and hosted as a static website using GitHub Page.<br>
 The App consist of:<br>
-✅ Parts (or renders) such as Home Navbar, Cuisine Category, Search and MealDaily that appear on every page.<br>
+✅ Parts (or renders) such as Home Navbar, Cuisine, Search and MealDaily that appear on every page.<br>
 ✅ Result Pages that are implemented as Route Components of the React Router.<br>
 When you click on each Part, the URL in the browser changes; only the Result Page content is changed instead of altering the entire page.<br>
 When you click on  the Home Navbar, the Popular and Veggie components will be displayed as a Carousel Slider for the 1st 10 recipes found.<br>
