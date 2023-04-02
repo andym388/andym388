@@ -67,13 +67,13 @@ When temperature is above 15ºC, a warm weather background will be displayed.<br
 Food Receipe Finder is a single-page web App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> to fetch Recipe data.<br>
 It can be deployed in GitHub and hosted as a static website using GitHub Page.<br>
 The App consist of:<br>
-✅ Parts (or renders) such as Home Navbar, Cuisine, Search and MealDaily that appear on every page.<br>
+✅ Parts (or renders) such as Home Navigation Bar, Meal Type Icons, Cuisine Dropdown List and Search Form that appear on every page.<br>
 ✅ Result Pages that are implemented as Route Components of the React Router.<br>
-When you click on each Part, the URL in the browser changes; only the Result Page content is changed instead of altering the entire page.<br>
-When you click on  the Home Navbar, the Popular and Veggie components will be displayed as a Carousel Slider for the 1st 10 recipes found.<br>
-When you click on a Cuisine Category which is implemented as a Search Link Icon, the Cuisine Page will be displayed as a Data Grid.<br>
-When you enter the Recipe Search Term and click on the Search button, the Searched Result Page will be displayed as a Data Grid.<br>
-When you enter the Daily Meal Calories Target and click on the MealDaily button, the MealList Result Page will be displayed as a Dsta Grid.<br>
+When you click on each Part, the URL in the browser changes; only the Result Page content is changed instead of altering the entire web page.<br>
+When you click on the Home Navigation Bar, the Random and Veggie recipes will be displayed as a Carousel Slider for the 1st 10 recipes found.<br>
+When you click on the Meal Type Icon, the Meals Page will be displayed as a Data Grid.<br>
+When you select a Cuisine Type from the Dropdown List, the Cuisines Page will be displayed as a Data Grid.<br>
+When you enter text onto the Recipe Search form, the Searched Result Page will be displayed as a Data Grid.<br>
 When you click on a Recipe, the Recipe component will be displayed as an Information Page with buttons for displaying Ingredients and Cooking Instructions.<br>
 ► Github Site: <br>
 ► Github Repo: <br>
