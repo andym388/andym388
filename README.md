@@ -73,8 +73,8 @@ When you click on each Part, the URL in the browser changes; only the Result Pag
 When you click on the Home Navigation Bar, the Random and Veggie recipes will be displayed as a Carousel Slider for the 1st 10 recipes found.<br>
 When you click on the Meal Type Selector, the Meals Page will be displayed as a Data Grid.<br>
 When you select a Cuisine Type from the Dropdown List, the Cuisines Page will be displayed as a Data Grid.<br>
-When you enter text onto the Recipe Search form, the Searched Recipes Page will be displayed as a Data Grid.<br>
-When you enter calories onto the Meal Planning Search form, the Daily Meal Plan Page will be displayed as an Information Page with links for displaying Recipe and Meal  Details.<br>
+When you enter Text onto the Recipe Search form, the Searched Recipes Page will be displayed as a Data Grid.<br>
+When you enter Calories Target onto the Meal Planning Search form, the Daily Meal Plan Page will be displayed as an Information Page with links for displaying Recipe and Meal  Details.<br>
 When you click on a Recipe, the Recipe Page will be displayed as an Information Page with buttons for displaying Ingredients and Cooking Instructions. The Recipe Page is accessible from every Result Page of the App.<br>
 ► Github Site: <br>
 ► Github Repo: <br>
