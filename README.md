@@ -63,18 +63,19 @@ When temperature is above 15ºC, a warm weather background will be displayed.<br
 ► Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather Wizard Page</a><br>
 ► Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
 
-<b>⭐ Food Recipe Finder with Daily Meal Plan</b><br>
-Food Receipe Finder is a single-page web App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> to fetch Recipe data.<br>
+<b>⭐ My Meal Planner</b><br>
+My Meal Planner is a single-page web App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> for fetching Recipe data and Meal Plans.<br>
 It can be deployed in GitHub and hosted as a static website using GitHub Page.<br>
 The App consist of:<br>
-✅ Parts (or renders) such as Home Navigation Bar, Meal Type Icons, Cuisine Dropdown List and Search Form that appear on every page.<br>
+✅ Parts (or renders) such as Home Navigation Bar, Meal Type Selector, Cuisine Dropdown List and Search Forms that appear on every page.<br>
 ✅ Result Pages that are implemented as Route Components of the React Router.<br>
 When you click on each Part, the URL in the browser changes; only the Result Page content is changed instead of altering the entire web page.<br>
 When you click on the Home Navigation Bar, the Random and Veggie recipes will be displayed as a Carousel Slider for the 1st 10 recipes found.<br>
-When you click on the Meal Type Icon, the Meals Page will be displayed as a Data Grid.<br>
+When you click on the Meal Type Selector, the Meals Page will be displayed as a Data Grid.<br>
 When you select a Cuisine Type from the Dropdown List, the Cuisines Page will be displayed as a Data Grid.<br>
-When you enter text onto the Recipe Search form, the Searched Result Page will be displayed as a Data Grid.<br>
-When you click on a Recipe, the Recipe component will be displayed as an Information Page with buttons for displaying Ingredients and Cooking Instructions.<br>
+When you enter text onto the Recipe Search form, the Searched Recipes Page will be displayed as a Data Grid.<br>
+When you enter calories onto the Meal Planning Search form, the Daily Meal Plan Page will be displayed as an Information Page with links for displaying Recipe and Meal  Details.<br>
+When you click on a Recipe, the Recipe Page will be displayed as an Information Page with buttons for displaying Ingredients and Cooking Instructions. The Recipe Page is accessible from every Result Page of the App.<br>
 ► Github Site: <br>
 ► Github Repo: <br>
 
