@@ -32,8 +32,8 @@ My current determination is to be able to act as the web and cloud transformatio
  </p>
 
 Currently, I am focusing on acquiring the above skillsets.
-- 🤞 In the 1st 6-12 months, I have acquired a basic understanding of the skill requirements to be a web developer using tutorials and projects available from YouTube.
-- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux, React Router and Material UI. The aim is to be able to develop  Cloud-based Microservices App using NodeJS, React and Docker. I will also be researching into Python Automation using OpenAI/ChatGPT and AI assisted coding in Visual Studio Code.
+- 🤞 In the 1st 6-12 months, I have acquired the basic skills to be a web developer using tutorials and projects available from YouTube.
+- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux and Material UI. The aim is to be able to develop  Cloud-based Microservices App using NodeJS, React and Docker. I will also be researching into Python Automation using OpenAI/ChatGPT and AI assisted coding in Visual Studio Code.
 - ✨ I will showcase my projects and coding journey here in GitHub and it will be accessible from my LinkedIn profile.
 
 ---
