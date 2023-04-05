@@ -68,14 +68,14 @@ My Meal Planner is a single-page web App that uses the 👉🏼 <a href="https:/
 It can be deployed in GitHub and hosted as a static website using GitHub Page.<br>
 The App consist of:<br>
 ✅ Parts (or renders) such as Home Navigation Bar, Meal Type Selector, Cuisine Dropdown List, Search Forms and MealDaily Form that appear on every page.<br>
-✅ Result Pages that are implemented as Route Components of the React Router.<br>
+✅ Result Pages that contain all the Route Components of the React Router.<br>
 When you click on each Part, the URL in the browser changes; only the Result Page content is changed instead of altering the entire web page.<br>
 When you click on the Home Navigation Bar, the Home Page with Random and Veggie recipes will be displayed as a Carousel Slider for the 1st 10 recipes found. The Home Page will always be loaded successfully even when the API Key Access is unavailable because the Recipe Data are saved in Local Storage.<br>
 When you click on the Meal Type Selector, the Meals Page will be displayed as a Data Grid.<br>
 When you select a Cuisine Type from the Dropdown List, the Cuisines Page will be displayed as a Data Grid.<br>
 When you enter Search Text onto the Recipe Search form, the Searched Recipes Page will be displayed as a Data Grid.<br>
-When you provide Calories Target and click on the Button to get the Meal Plan, the Daily MealList Page will be displayed as an Information Page with links for displaying Recipe and Meal  Details.<br>
-When you click on a Recipe, the Recipe Page will be displayed as an Information Page with buttons for displaying Ingredients and Cooking Instructions. The Recipe Page is accessible from every Result Page of the App.<br>
+When you provide the Calories Target onto the Meal Plan form, the Daily MealList Page will be displayed as an Information Page with link for displaying Meal  Details.<br>
+When you click on the Recipe of the Result Page, the Recipe Page will be displayed as an Information Page with buttons for displaying Ingredients and Cooking Instructions.<br>
 ► Github Site: <br>
 ► Github Repo: <br>
 
