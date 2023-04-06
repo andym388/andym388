@@ -74,7 +74,7 @@ When you click on the Home Navigation Bar, the Home Page with Random and Veggie 
 When you click on the Meal Type Selector, the Meals Page will be displayed as a Data Grid.<br>
 When you select a Cuisine Type from the Dropdown List, the Cuisines Page will be displayed as a Data Grid.<br>
 When you enter Search Text onto the Recipe Search form, the Searched Recipes Page will be displayed as a Data Grid.<br>
-When you enter Calories Target onto the Meal Plan form, the Daily MealList Page will be displayed as an Information Page with link for displaying Meal  Details.<br>
+When you enter Calories Target onto the Daily Meal Plan form, the MealList Page will be displayed as an Information Page with link for displaying Meal Details.<br>
 When you click on the Recipe of the Result Page, the Recipe Page will be displayed as an Information Page with buttons for displaying Cooking Instructions and Ingredients.<br>
 ► Github Site: <br>
 ► Github Repo: <br>
