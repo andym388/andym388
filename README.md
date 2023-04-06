@@ -75,7 +75,7 @@ When you click on the Meal Type Selector, the Meals Page will be displayed as a 
 When you select a Cuisine Type from the Dropdown List, the Cuisines Page will be displayed as a Data Grid.<br>
 When you enter Search Text onto the Recipe Search form, the Searched Recipes Page will be displayed as a Data Grid.<br>
 When you provide the Calories Target onto the Meal Plan form, the Daily MealList Page will be displayed as an Information Page with link for displaying Meal  Details.<br>
-When you click on the Recipe of the Result Page, the Recipe Page will be displayed as an Information Page with buttons for displaying Ingredients and Cooking Instructions.<br>
+When you click on the Recipe of the Result Page, the Recipe Page will be displayed as an Information Page with buttons for displaying Cooking Instructions and Ingredients.<br>
 ► Github Site: <br>
 ► Github Repo: <br>
 
