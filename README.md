@@ -71,7 +71,7 @@ The App consist of:<br>
 ✅ Result Pages that contain all the Route Components of the React Router.<br>
 When you click on each Part, the URL in the browser changes; only the Result Page content is changed instead of altering the entire web page.<br>
 When you click on the Home Navigation Bar, the Home Page with Random and Veggie recipes will be displayed as a Carousel Slider for the 1st 10 recipes found. The Home Page will always be loaded successfully even when the API Key Access is unavailable because the Recipe Data are saved in Local Storage.<br>
-When you click on the Meal Type Selector, the Meals Page will be displayed as a Data Grid.<br>
+When you click on the Meal Type Selector Icon, the Meals Page will be displayed as a Data Grid.<br>
 When you select a Cuisine Type from the Dropdown List, the Cuisines Page will be displayed as a Data Grid.<br>
 When you enter Search Text onto the Recipe Search form, the Searched Recipes Page will be displayed as a Data Grid.<br>
 When you enter Calories Target onto the Daily Meal Plan form, the MealList Page will be displayed as an Information Page with link for displaying Meal Details.<br>
