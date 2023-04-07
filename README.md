@@ -42,20 +42,20 @@ Currently, I am focusing on acquiring the above skillsets.
 
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 
-<b>⭐ Team Profile App</b><br>
-This Team Profile App is a simple, single-page web App that beginners can attempt to pick up basic skills on React quickly.<br>
-It can be deployed in GitHub and hosted as a static website using GitHub Page.<br>
-This App displays the information about your Team Members such as their name, job and a photo image.<br>
+<b>⭐ My Team Profile</b><br>
+My Team Profile is a simple, single-page web App that beginners can attempt to pick up basic skills on React quickly.<br>
+It can be deployed in GitHub and hosted as a dynamic website using GitHub Page.<br>
+This App displays the information about my Team Members such as their name, job and a photo image.<br>
 When your mouse hover over the trash icon, it turns red.<br>
 When you click on the trash icon beside each profile, it removes that person's profile from the list of profiles.<br>
-The Team Profile Data is stored as a JSON array having objects, so if you refresh the page, it will get the data back and repopulate the page.<br>
+The Team Profile Data is stored as a JSON array having team member objects, so if you refresh the page, it will get the data back and repopulate the page.<br>
 Search functionality is also available such that when you type out some Search Characters, it filters and display the matching Names.<br>
 ► Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profile Page</a><br>
 ► Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
 
 <b>⭐ Weather Wizard</b><br>
 Weather Wizard is a single-page web App that uses the 👉🏼 <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
-It can be deployed in GitHub and hosted as a static website using GitHub Page.<br>
+It can be deployed in GitHub and hosted as a dynamic website using GitHub Page.<br>
 When you enter in the name of a city, the app will fetch and display the weather data for that city.<br>
 When the weather app encounter an error event, an error message will be displayed.<br>
 When loading of weather data is occurring, an interim message will be displayed.<br>
@@ -65,10 +65,10 @@ When temperature is above 15ºC, a warm weather background will be displayed.<br
 
 <b>⭐ My Meal Planner</b><br>
 My Meal Planner is a single-page web App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> for fetching Recipe data and Meal Plans.<br>
-It can be deployed in GitHub and hosted as a static website using GitHub Page.<br>
+It can be deployed in GitHub and hosted as a dynamic website using GitHub Page.<br>
 The App consist of:<br>
 ✅ Parts (or renders) such as Home Navigation Bar, Meal Type Selector, Cuisine Dropdown List, Search Forms and MealDaily Form that appear on every page.<br>
-✅ Result Pages that contain all the Route Components of the React Router.<br>
+✅ Result Pages that contain all the Route Components of the React Router. Result Pages are renderred from the Parts<br>
 When you click on each Part, the URL in the browser changes; only the Result Page content is changed instead of altering the entire web page.<br>
 When you click on the Home Navigation Bar, the Home Page with Random and Veggie recipes will be displayed as a Carousel Slider for the 1st 10 recipes found. The Home Page will always be loaded successfully even when the API Key Access is unavailable because the Recipe Data are saved in Local Storage.<br>
 When you click on the Meal Type Selector Icon, the Meals Page will be displayed as a Data Grid.<br>
