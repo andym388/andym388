@@ -66,9 +66,9 @@ When temperature is above 15ºC, a warm weather background will be displayed.<br
 <b>⭐ My Meal Planner</b><br>
 My Meal Planner is a single-page web App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> for fetching Recipe data and Meal Plans.<br>
 It can be deployed in GitHub and hosted as a dynamic website using GitHub Page.<br>
-The App consist of:<br>
+The App consist of the following styled components:<br>
 ✅ Parts (or renders) such as Home Navigation Bar, Meal Type Selector, Cuisine Dropdown List, Search Forms and MealDaily Form that appear on every page.<br>
-✅ Result Pages that contain all the Route Components of the React Router. Result Pages are renderred from the Parts<br>
+✅ Result Pages that are Route Components of the React Router. Result Pages are renderred from the Parts<br>
 When you click on each Part, the URL in the browser changes; only the Result Page content is changed instead of altering the entire web page.<br>
 When you click on the Home Navigation Bar, the Home Page with Random and Veggie recipes will be displayed as a Carousel Slider for the 1st 10 recipes found. The Home Page will always be loaded successfully even when the API Key Access is unavailable because the Recipe Data are saved in Local Storage.<br>
 When you click on the Meal Type Selector Icon, the Meals Page will be displayed as a Data Grid.<br>
