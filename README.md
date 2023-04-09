@@ -33,7 +33,7 @@ My current determination is to be able to act as the web and cloud transformatio
 
 Currently, I am focusing on acquiring the above skillsets.
 - 🤞 In the 1st 6-12 months, I have acquired the basic skills to be a web developer using tutorials and projects available from YouTube.
-- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and build projects with Redux and Material UI. The aim is to be able to develop  Cloud-based Microservices App using NodeJS, React and Docker. I will also be researching into Python Automation using OpenAI/ChatGPT and AI assisted coding in Visual Studio Code.
+- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and develop  Cloud-based Microservices App using NodeJS, React, Docker, Redux and Material UI. I will also be researching into Python Automation using OpenAI/ChatGPT and AI assisted coding in Visual Studio Code.
 - ✨ I will showcase my projects and coding journey here in GitHub and it will be accessible from my LinkedIn profile.
 
 ---
@@ -43,8 +43,8 @@ Currently, I am focusing on acquiring the above skillsets.
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 
 <b>⭐ My Team Profile</b><br>
-My Team Profile is a simple, single-page web App that beginners can attempt to pick up basic skills on React quickly.<br>
-It can be deployed in GitHub and hosted as a dynamic website using GitHub Page.<br>
+My Team Profile is a simple, client-side browser App App that beginners can attempt to pick up basic skills on React quickly.<br>
+It can be deployed in GitHub and hosted as a single-page website using GitHub Page.<br>
 This App displays the information about my Team Members such as their name, job and a photo image.<br>
 When your mouse hover over the trash icon, it turns red.<br>
 When you click on the trash icon beside each profile, it removes that person's profile from the list of profiles.<br>
@@ -54,8 +54,8 @@ Search functionality is also available such that when you type out some Search C
 ► Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
 
 <b>⭐ Weather Wizard</b><br>
-Weather Wizard is a single-page web App that uses the 👉🏼 <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
-It can be deployed in GitHub and hosted as a dynamic website using GitHub Page.<br>
+Weather Wizard is a client-side browser App that uses the 👉🏼 <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
+It can be deployed in GitHub and hosted as a single-page website using GitHub Page.<br>
 When you enter in the name of a city, the app will fetch and display the weather data for that city.<br>
 When the weather app encounter an error event, an error message will be displayed.<br>
 When loading of weather data is occurring, an interim message will be displayed.<br>
@@ -64,8 +64,8 @@ When temperature is above 15ºC, a warm weather background will be displayed.<br
 ► Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
 
 <b>⭐ My Meal Planner</b><br>
-My Meal Planner is a single-page web App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> for fetching Recipe data and Meal Plans.<br>
-It can be deployed in GitHub and hosted as a dynamic website using GitHub Page.<br>
+My Meal Planner is a client-side browser App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> for fetching Recipe data and Meal Plans.<br>
+It can be deployed in GitHub and hosted as a single-page website using GitHub Page.<br>
 The App consist of the following styled components:<br>
 ✅ Parts (or renders) such as Home Navigation Bar, Meal Type Selector, Cuisine Dropdown List, Search Forms and MealDaily Form that appear on every page.<br>
 ✅ Result Pages that are Route Components of the React Router. Result Pages are renderred from the Parts<br>
@@ -84,8 +84,8 @@ When you click on the Recipe of the Result Page, the Recipe Page will be display
 <b>⭐ Weather Node</b><br>
 The React Weather Wizard App above is re-written in Node.js so that we can compare their differences in approach which are:<br>
 ▶️ Node.js App is a server-side App with access to the O/S, databases, file system and everything else to build a fully-functional App.<br>
-▶️ Hence, it needs to be hosted on a full-stack hosting service such as Railway and Render.<br>
-▶️ A HTTP request is used to obtain the weather data from the OpenWeatherMap Data Source.<br>
-▶️ In contract, the React App is a client-side App that just uses an API call to obtain/display the weather data from/onto the browser.<br>
+▶️ Hence, it needs to be hosted on a full-stack hosting service such as Vercel, Railway and Render.<br>
+▶️ A HTTP request is used to obtain the weather data via an API Call to the OpenWeatherMap Data Source.<br>
+▶️ In contract, the React App is a client-side App that access the API from the browser to obtain/display the weather data.<br>
 ► Railway Site: <br>
 ► Github Repo: <br>
