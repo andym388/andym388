@@ -82,10 +82,10 @@ When you click on the Recipe of the Result Page, the Recipe Page will be display
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
 <b>⭐ Weather Node</b><br>
-The React Weather Wizard App above is re-written in Node.js so that we can compare their differences in approach which are:<br>
-▶️ Node.js App is a server-side App with access to the O/S, databases, file system and everything else to build a fully-functional App.<br>
+The React Weather Wizard App above is re-written in NodeJS so that we can compare their differences in approach which are:<br>
+▶️ NodeJS App is a server-side App with access to the O/S, databases, file system and everything else to build a fully-functional App.<br>
 ▶️ Hence, it needs to be hosted on a full-stack hosting service such as Vercel, Railway or Render.<br>
 ▶️ A HTTP request is used to obtain the weather data via an API Call to the OpenWeatherMap Data Source.<br>
 ▶️ In contract, the React App is a client-side App that access the API from the browser to obtain/display the weather data.<br>
-► Railway Site: <br>
+► Vercel Site: <br>
 ► Github Repo: <br>
