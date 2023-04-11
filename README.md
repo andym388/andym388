@@ -33,7 +33,7 @@ My current determination is to be able to act as the web and cloud transformatio
 
 Currently, I am focusing on acquiring the above skillsets.
 - 🤞 In the 1st 6-12 months, I have acquired the basic skills to be a web developer using tutorials and projects available from YouTube.
-- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and develop  Cloud-based Microservices App using NodeJS, React, Docker, Redux and Material UI. I will also be researching into Python Automation using OpenAI/ChatGPT and AI assisted coding in Visual Studio Code.
+- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and develop Cloud-based Microservices App using NodeJS, React, Docker, Redux and Material UI. I will also be researching into Automation using OpenAI/ChatGPT and AI assisted coding using Python, NodeJS and React in Visual Studio Code.
 - ✨ I will showcase my projects and coding journey here in GitHub and it will be accessible from my LinkedIn profile.
 
 ---
@@ -84,7 +84,7 @@ When you click on the Recipe of the Result Page, the Recipe Page will be display
 <b>⭐ Weather Node</b><br>
 The React Weather Wizard App above is re-written in Node.js so that we can compare their differences in approach which are:<br>
 ▶️ Node.js App is a server-side App with access to the O/S, databases, file system and everything else to build a fully-functional App.<br>
-▶️ Hence, it needs to be hosted on a full-stack hosting service such as Vercel, Railway and Render.<br>
+▶️ Hence, it needs to be hosted on a full-stack hosting service such as Vercel, Railway or Render.<br>
 ▶️ A HTTP request is used to obtain the weather data via an API Call to the OpenWeatherMap Data Source.<br>
 ▶️ In contract, the React App is a client-side App that access the API from the browser to obtain/display the weather data.<br>
 ► Railway Site: <br>
