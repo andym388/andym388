@@ -43,7 +43,7 @@ Currently, I am focusing on acquiring the above skillsets.
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 
 <b>⭐ My Team Profile</b><br>
-My Team Profile is a simple, client-side browser App App that beginners can attempt to pick up basic skills on React quickly.<br>
+My Team Profile is a simple, front-end browser App App that beginners can attempt to pick up basic skills on React quickly.<br>
 It can be deployed in GitHub and hosted as a single-page website using GitHub Page.<br>
 This App displays the information about my Team Members such as their name, job and a photo image.<br>
 When your mouse hover over the trash icon, it turns red.<br>
@@ -54,7 +54,7 @@ Search functionality is also available such that when you type out some Search C
 ► Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
 
 <b>⭐ Weather Wizard</b><br>
-Weather Wizard is a client-side browser App that uses the 👉🏼 <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
+Weather Wizard is a front-end browser App that uses the 👉🏼 <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
 It can be deployed in GitHub and hosted as a single-page website using GitHub Page.<br>
 When you enter in the name of a city, the app will fetch and display the weather data for that city.<br>
 When the weather app encounter an error event, an error message will be displayed.<br>
@@ -64,7 +64,7 @@ When temperature is above 15ºC, a warm weather background will be displayed.<br
 ► Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
 
 <b>⭐ My Meal Planner</b><br>
-My Meal Planner is a client-side browser App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> for fetching Recipe data and Meal Plans.<br>
+My Meal Planner is a front-end browser App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> for fetching Recipe data and Meal Plans.<br>
 It can be deployed in GitHub and hosted as a single-page website using GitHub Page.<br>
 The App consist of the following styled components:<br>
 ✅ Parts (or renders) such as Home Navigation Bar, Meal Type Selector, Cuisine Dropdown List, Search Forms and MealDaily Form that appear on every page.<br>
@@ -83,7 +83,7 @@ When you click on the Recipe of the Result Page, the Recipe Page will be display
 
 <b>⭐ Weather Node</b><br>
 The React Weather Wizard App above is re-written in NodeJS so that we can compare their differences in approach which are:<br>
-▶️ NodeJS App is a server-side App with access to the O/S, databases, file system and everything else to build a fully-functional App.<br>
+▶️ NodeJS App is a back-end, server-side App with access to the O/S, databases, file system and everything else to build a fully-functional App.<br>
 ▶️ Hence, it needs to be hosted on a full-stack hosting service such as Vercel, Railway or Render.<br>
 ▶️ A HTTP request is used to obtain the weather data via an API Call to the OpenWeatherMap Data Source.<br>
 ▶️ In contract, the React App is a client-side App that access the API from the browser to obtain/display the weather data.<br>
