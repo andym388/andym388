@@ -27,8 +27,7 @@ My current determination is to be able to act as the web and cloud transformatio
   <img alt="EJS" src="https://img.shields.io/badge/EJS-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  <img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge" />
-  <img alt="Render" src="https://img.shields.io/badge/Render-3CB371?logo=render&logoColor=white&style=for-the-badge" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=black&style=for-the-badge" />
  </p>
 
 Currently, I am focusing on acquiring the above skillsets.
@@ -44,28 +43,28 @@ Currently, I am focusing on acquiring the above skillsets.
 
 <b>⭐ My Team Profile</b><br>
 My Team Profile is a simple, front-end browser App App that beginners can attempt to pick up basic skills on React quickly.<br>
-It can be deployed in GitHub and hosted as a single-page website using GitHub Page.<br>
+It is deployed in GitHub and hosted as a single-page website using GitHub Pages.<br>
 This App displays the information about my Team Members such as their name, job and a photo image.<br>
 When your mouse hover over the trash icon, it turns red.<br>
 When you click on the trash icon beside each profile, it removes that person's profile from the list of profiles.<br>
 The Team Profile Data is stored as a JSON array having team member objects, so if you refresh the page, it will get the data back and repopulate the page.<br>
 Search functionality is also available such that when you type out some Search Characters, it filters and display the matching Names.<br>
-► Github Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profile Page</a><br>
+► Github Pages Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profile Page</a><br>
 ► Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
 
 <b>⭐ Weather Wizard</b><br>
 Weather Wizard is a front-end browser App that uses the 👉🏼 <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
-It can be deployed in GitHub and hosted as a single-page website using GitHub Page.<br>
+It is deployed in GitHub and hosted as a single-page website using Vercel.<br>
 When you enter in the name of a city, the app will fetch and display the weather data for that city.<br>
 When the weather app encounter an error event, an error message will be displayed.<br>
 When loading of weather data is occurring, an interim message will be displayed.<br>
 When temperature is above 15ºC, a warm weather background will be displayed.<br>
-► Github Site: <a href="https://andym388.github.io/a03_1weather-wizard/">Weather Wizard Page</a><br>
+► Vercel Site: <a href="https://a03-1weather-wizard.vercel.app/">Weather Wizard Page</a><br>
 ► Github Repo: <a href="https://github.com/andym388/a03_1weather-wizard">Source code for this React App</a><br>
 
 <b>⭐ My Meal Planner</b><br>
 My Meal Planner is a front-end browser App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> for fetching Recipe data and Meal Plans.<br>
-It can be deployed in GitHub and hosted as a single-page website using GitHub Page.<br>
+It is deployed in GitHub and hosted as a single-page website using Vercel.<br>
 The App consist of the following styled components:<br>
 ✅ Parts (or renders) such as Home Navigation Bar, Meal Type Selector, Cuisine Dropdown List, Search Forms and MealDaily Form that appear on every page.<br>
 ✅ Result Pages that are Route Components of the React Router. Result Pages are renderred from the Parts<br>
@@ -76,7 +75,7 @@ When you select a Cuisine Type from the Dropdown List, the Cuisines Page will be
 When you enter Search Text onto the Recipe Search form, the Searched Recipes Page will be displayed as a Data Grid.<br>
 When you enter Calories Target onto the Daily Meal Plan form, the MealList Page will be displayed as an Information Page with link for displaying Meal Details.<br>
 When you click on the Recipe of the Result Page, the Recipe Page will be displayed as an Information Page with buttons for displaying Cooking Instructions and Ingredients.<br>
-► Github Site: <br>
+► Vercel Site: <br>
 ► Github Repo: <br>
 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
