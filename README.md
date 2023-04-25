@@ -27,7 +27,7 @@ My current determination is to be able to act as the web and cloud transformatio
   <img alt="EJS" src="https://img.shields.io/badge/EJS-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=black&style=for-the-badge" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
  </p>
 
 Currently, I am focusing on acquiring the above skillsets.
