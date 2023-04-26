@@ -72,8 +72,8 @@ When you select a Cuisine Type from the Dropdown List, the Cuisines Page will be
 When you enter Search Text onto the Recipe Search form, the Searched Recipes Page will be displayed as a Data Grid.<br>
 When you enter Calories Target onto the Daily Meal Plan form, the MealList Page will be displayed as an Information Page with link for displaying Meal Details.<br>
 When you click on the Recipe of the Result Page, the Recipe Page will be displayed as an Information Page with buttons for displaying Cooking Instructions and Ingredients.<br>
-► Vercel Site: <br>
-► Github Repo: <br>
+► Vercel Site: <a href="https://a04-1meal-planner.vercel.app/">My Meal Planner Page</a><br>
+► Github Repo: <a href="https://github.com/andym388/a04_1meal-planner">Source code for this React App</a><br>
 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
