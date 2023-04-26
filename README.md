@@ -43,18 +43,16 @@ Currently, I am focusing on acquiring the above skillsets.
 
 <b>⭐ My Team Profile</b><br>
 My Team Profile is a simple, front-end browser App App that beginners can attempt to pick up basic skills on React quickly.<br>
-It is deployed in GitHub and hosted as a single-page website using GitHub Pages.<br>
 This App displays the information about my Team Members such as their name, job and a photo image.<br>
 When your mouse hover over the trash icon, it turns red.<br>
 When you click on the trash icon beside each profile, it removes that person's profile from the list of profiles.<br>
 The Team Profile Data is stored as a JSON array having team member objects, so if you refresh the page, it will get the data back and repopulate the page.<br>
 Search functionality is also available such that when you type out some Search Characters, it filters and display the matching Names.<br>
-► Github Pages Site: <a href="https://andym388.github.io/a02_1team-profile/">Team Profile Page</a><br>
+► Github Pages: <a href="https://andym388.github.io/a02_1team-profile/">My Team Profile Page</a><br>
 ► Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
 
 <b>⭐ Weather Wizard</b><br>
 Weather Wizard is a front-end browser App that uses the 👉🏼 <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather data.<br>
-It is deployed in GitHub and hosted as a single-page website using Vercel.<br>
 When you enter in the name of a city, the app will fetch and display the weather data for that city.<br>
 When the weather app encounter an error event, an error message will be displayed.<br>
 When loading of weather data is occurring, an interim message will be displayed.<br>
@@ -64,7 +62,6 @@ When temperature is above 15ºC, a warm weather background will be displayed.<br
 
 <b>⭐ My Meal Planner</b><br>
 My Meal Planner is a front-end browser App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> for fetching Recipe data and Meal Plans.<br>
-It is deployed in GitHub and hosted as a single-page website using Vercel.<br>
 The App consist of the following styled components:<br>
 ✅ Parts (or renders) such as Home Navigation Bar, Meal Type Selector, Cuisine Dropdown List, Search Forms and MealDaily Form that appear on every page.<br>
 ✅ Result Pages that are Route Components of the React Router. Result Pages are renderred from the Parts<br>
