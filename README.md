@@ -83,5 +83,5 @@ The React Weather Wizard App above is re-written in NodeJS so that we can compar
 ▶️ Hence, it needs to be hosted on a full-stack hosting service such as Vercel, Railway or Render.<br>
 ▶️ A HTTP request is used to obtain the weather data via an API Call to the OpenWeatherMap Data Source.<br>
 ▶️ In contract, the React App is a client-side App that access the API from the browser to obtain/display the weather data.<br>
-► Vercel Site: <br>
-► Github Repo: <br>
+► Render Site: <a href="https://b03-1weather-node.onrender.com/">Weather Node</a><br>
+► Github Repo: <a href="https://github.com/andym388/b03_1weather-node">Source code for this React App</a><br>
