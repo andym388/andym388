@@ -16,10 +16,10 @@ My current determination is to be able to act as the web and cloud transformatio
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A24B?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A24B?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -28,7 +28,7 @@ My current determination is to be able to act as the web and cloud transformatio
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
-  <img alt="Render" src="https://img.shields.io/badge/Render-#46E3B7logo=render&logoColor=black&style=for-the-badge" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black&style=for-the-badge" />
  </p>
 
 Currently, I am focusing on acquiring the above skillsets.
@@ -84,5 +84,5 @@ The React Weather Wizard App above is re-written in NodeJS so that we can compar
 ▶️ Hence, it needs to be hosted on a full-stack hosting service such as Render.<br>
 ▶️ A HTTP request is used to obtain the weather data via an API Call to the OpenWeatherMap Data Source.<br>
 ▶️ In contract, the React App is a client-side App that access the API from the browser to obtain/display the weather data.<br>
-► Render Site: <a href="https://b03-1weather-node.onrender.com/">Weather Node</a><br>
+► Render Site: <a href="https://b03-1weather-node.onrender.com/">Weather Node Page</a><br>
 ► Github Repo: <a href="https://github.com/andym388/b03_1weather-node">Source code for this React App</a><br>
