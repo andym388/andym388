@@ -47,8 +47,8 @@ My Team Profile is a simple, front-end browser App for beginners to pick up basi
 This App displays the information about my Team Members such as their name, job and a photo image.<br>
 When your mouse hover over the trash icon, it turns red.<br>
 When you click on the trash icon beside each profile, it removes that person's profile from the list of profiles.<br>
-The Team Profile Data is stored as a JSON array having team member objects, so if you refresh the page, it will get the data back and repopulate the page.<br>
-Search functionality is also available such that when you type out some Search Characters, it filters and display the matching Names.<br>
+The Team Profile Data is provided as a JSON array having team member objects. When you refresh the page, the App will get the data back and repopulate the page.<br>
+Search functionality is also available such that when you type out some Search Characters, it filters and display the matching Names instantly.<br>
 ► Github Pages: <a href="https://andym388.github.io/a02_1team-profile/">My Team Profile Page</a><br>
 ► Github Repo: <a href="https://github.com/andym388/a02_1team-profile">Source code for this React App</a><br>
 
@@ -79,10 +79,11 @@ When you click on the Recipe of the Result Page, the Recipe Page will be display
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
 <b>⭐ Weather Node</b><br>
-The React Weather Wizard App above is re-written in NodeJS so that we can compare their differences in approach which are:<br>
-▶️ NodeJS App is a back-end, server-side App with access to the O/S, databases, file system and everything else to build a fully-functional App.<br>
+The front-end React Weather Wizard App above is re-written with NodeJS as the Runtime and ExpressJS as the back-end framework.<br>
+The differences in approach are:<br>
+▶️ The Weather Node App is a back-end, server-side App that accesses the O/S, databases, file system and other system resources to build a fully-functional App.<br>
 ▶️ Hence, it needs to be hosted on a full-stack hosting service such as Render.<br>
 ▶️ A HTTP request is used to obtain the weather data via an API Call to the OpenWeatherMap Data Source.<br>
-▶️ In contract, the React App is a client-side App that access the API from the browser to obtain/display the weather data.<br>
+▶️ In contract, the React Weather Wizard App is a front-end, client-side App that access the Weather API from the browser to obtain/display the weather data.<br>
 ► Render Site: <a href="https://b03-1weather-node.onrender.com/">Weather Node Page</a><br>
 ► Github Repo: <a href="https://github.com/andym388/b03_1weather-node">Source code for this React App</a><br>
