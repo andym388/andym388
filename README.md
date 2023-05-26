@@ -81,7 +81,7 @@ When you click on the Recipe of the Result Page, the Recipe Page will be display
 <b>⭐ Weather Node</b><br>
 The front-end React Weather Wizard App above is re-written with NodeJS as the Runtime and ExpressJS as the back-end framework.<br>
 The differences in approach are:<br>
-▶️ The Weather Node App is a back-end, server-side App that accesses the O/S, databases, file system and other system resources to build a fully-functional App.<br>
+▶️ The Weather Node App is a back-end, server-side App that accesses the O/S, databases, file system and other system resources as a fully-functional App.<br>
 ▶️ Hence, it needs to be hosted on a full-stack hosting service such as Render which accepts the incoming, server-side HTTPS request for Data from the NodeJS App or Web Service.<br>
 ▶️ In contract, the React Weather Wizard App is a front-end, client-side App that access the Weather API from the browser to obtain/display the weather data.<br>
 ► Render Site: <a href="https://b03-1weather-node.onrender.com/">Weather Node Page</a><br>
