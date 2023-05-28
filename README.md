@@ -33,7 +33,7 @@ My current determination is to be able to act as the web and cloud transformatio
 
 Currently, I am focusing on acquiring the above skillsets.
 - 🤞 In the 1st 6-12 months, I have acquired the basic skills needed to be a web developer using tutorials and projects available from YouTube.
-- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics and develop Cloud-based Microservices App using MERN Stack, Docker, Redux and Material UI. I will also be researching into Automation using OpenAI/ChatGPT and AI assisted coding in Visual Studio Code.
+- ⚗️ In the coming 6-12 months, I wiil delve into more Advanced topics using modern MERN full Stack, Redux, Material UI and Docker with the aim to develop Cloud-based Microservices. I will also be researching into AI Automation using OpenAI/ChatGPT and AI assisted coding in Visual Studio Code.
 - ✨ I will showcase my projects and coding journey here in GitHub and it will be accessible from my LinkedIn profile.
 
 ---
