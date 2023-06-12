@@ -85,12 +85,12 @@ The differences in approach are:<br>
 ▶️ Hence, it needs to be hosted on a full-stack hosting service such as Render to process the incoming, server-side HTTPS request for Data from the NodeJS App or Web Service.<br>
 ▶️ In contract, the React Weather Wizard App is a frontend, client-side App that access the Weather API from the browser to obtain/display the weather data.<br>
 ► Render Site: <a href="https://b03-1weather-node.onrender.com/">Weather Node Page</a><br>
-► Github Repo: <a href="https://github.com/andym388/b03_1weather-node">Source code for this React App</a><br>
+► Github Repo: <a href="https://github.com/andym388/b03_1weather-node">Source code for this NodeJS App</a><br>
 
 <b>⭐ MERN Meal Planner</b><br>
-This simple project highlights the MERN functionalities.
-The Recipe API will be created using the NodeJS runtime and the ExpressJS framework.
-The web client uses this API to authenticate into and to access the database that is hosted on MongoDB Atlas. 
-Both the frontend React App and the backend NodeJS REST API will be deployed on Render.com.
+This simple project highlights the MERN functionalities.<br>
+The Recipe API will be created using the NodeJS runtime and the ExpressJS framework.<br>
+The web client uses this API to authenticate into and to access the database that is hosted on MongoDB Atlas.<br>
+Both the frontend React App and the backend NodeJS REST API will be deployed on Render.com.<br>
 ► Render Site: <br>
-► Github Repo: <br>
+► Github Repo: Source code for this NodeJS and React App<br>
