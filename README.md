@@ -88,10 +88,10 @@ The differences in approach are:<br>
 ► Github Repo: <a href="https://github.com/andym388/b03_1weather-node">Source code for this NodeJS App</a><br>
 
 <b>⭐ MERN Meal Planner</b><br>
-This Full Stack MERN App icomes with User Authentication.<br>
+This Full Stack MERN App comes with User Authentication.<br>
 Users will be able to create an account, log in and save recipes private to themselves.<br>
 The Recipe API will be created using the NodeJS runtime and the ExpressJS framework.<br>
-The web client uses this API to authenticate into and to access the database that is hosted on MongoDB Atlas.<br>
+The web client uses this API to authenticate into and access the database that is hosted on MongoDB Atlas.<br>
 Both the frontend React App and the backend NodeJS REST API will be deployed on Render.com.<br>
 ► Render Site: <br>
 ► Github Repo: Source code for this NodeJS and React App<br>
