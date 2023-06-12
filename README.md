@@ -79,10 +79,18 @@ When you click on the Recipe of the Result Page, the Recipe Page will be display
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
 <b>⭐ Weather Node</b><br>
-The front-end React Weather Wizard App above is re-written with NodeJS as the Runtime and ExpressJS as the back-end framework.<br>
+The frontend React Weather Wizard App above is re-written with NodeJS as the Runtime and ExpressJS as the back-end framework.<br>
 The differences in approach are:<br>
-▶️ The Weather Node App is a back-end, server-side App that accesses the O/S, databases, file system and other system resources as a fully-functional App.<br>
-▶️ Hence, it needs to be hosted on a full-stack hosting service such as Render which accepts the incoming, server-side HTTPS request for Data from the NodeJS App or Web Service.<br>
-▶️ In contract, the React Weather Wizard App is a front-end, client-side App that access the Weather API from the browser to obtain/display the weather data.<br>
+▶️ This Weather Node App is a backend, server-side App that accesses the O/S, databases, file system and other system resources as a fully-functional App.<br>
+▶️ Hence, it needs to be hosted on a full-stack hosting service such as Render to process the incoming, server-side HTTPS request for Data from the NodeJS App or Web Service.<br>
+▶️ In contract, the React Weather Wizard App is a frontend, client-side App that access the Weather API from the browser to obtain/display the weather data.<br>
 ► Render Site: <a href="https://b03-1weather-node.onrender.com/">Weather Node Page</a><br>
 ► Github Repo: <a href="https://github.com/andym388/b03_1weather-node">Source code for this React App</a><br>
+
+<b>⭐ MERN Meal Planner</b><br>
+This simple project highlights the MERN functionalities.
+The Recipe API will be created using the NodeJS runtime and the ExpressJS framework.
+The web client uses this API to authenticate into and to access the database that is hosted on MongoDB Atlas. 
+Both the frontend React App and the backend NodeJS REST API will be deployed on Render.com.
+► Render Site: <br>
+► Github Repo: <br>
