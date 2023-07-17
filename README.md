@@ -84,7 +84,8 @@ The differences in approach are:<br>
 ▶️ This Weather Node App will be a backend, server-side App that accesses the O/S, databases, file system and other system resources as a fully-functional App.<br>
 ▶️ Hence, it needs to be hosted on a full-stack hosting service such as Render to process the incoming, server-side HTTPS request for Data from the NodeJS App or Web Service.<br>
 ▶️ In contract, the React Weather Wizard App is a frontend, client-side App that access the Weather API from the browser to obtain/display the weather data.<br>
-► Render Site: <a href="https://b03-1weather-node.onrender.com/">Weather Node Page</a><br>
+► Render Site (native): <a href="https://b03-1weather-node.onrender.com/">Weather Node Page</a><br>
+► Render Site (on Docker): <a href="https://b03-1weather-node-docker.onrender.com/">Weather Node Page</a><br>
 ► Github Repo: <a href="https://github.com/andym388/b03_1weather-node">Source code for this NodeJS App</a><br>
 
 <b>⭐ MERN Meal Planner</b><br>
