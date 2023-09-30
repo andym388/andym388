@@ -64,8 +64,8 @@ When temperature is above 18ºC, a warm weather background will be displayed.<br
 <b>⭐ My Meal Planner</b><br>
 My Meal Planner is a front-end browser App that uses the 👉🏼 <a href="https://spoonacular.com/food-api">Spoonacular API</a> to fetch Recipe data and Daily Meal Plans.<br>
 The App consist of the following styled components:<br>
-✅ Parts (or renders) such as Home Navigation Bar, Meal Type Selector, Cuisine Dropdown List, Search Forms and MealDaily Form that appear on the top of the  page.<br>
-✅ Result Pages that are Route Components of the React Router. Result Pages are rendered from the Parts<br>
+✅ Parts (or renders) such as Home Navigation Bar, Meal Type Selector, Cuisine Dropdown List, Search Forms and MealDaily Form that appear on the top of the page.<br>
+✅ Result Pages that are Route Components of the React Router. Result Pages are rendered from the Parts.<br>
 When you click on each Part, the URL in the browser changes; only the Result Page content is changed instead of altering the entire web page.<br>
 When you click on the Home Navigation Bar, the Home Page with Random and Veggie recipes will be displayed as a Carousel Slider for the 1st 10 recipes found. The Home Page will always be loaded successfully even when the API Key Access is unavailable because the Recipe Data are saved in Local Storage.<br>
 When you click on the Meal Type Selector Icon, the Meals Page will be displayed as a Data Grid.<br>
@@ -83,9 +83,9 @@ The frontend, client-side React Weather Wizard App above is re-written using the
 The Weather NodeJS App is deployed on a hosting service such as Render on Docker as a Web Service to process the incoming, server-side HTTPS request for Data obtained by calling the Weather API.<br>
 In contract, the React Weather Wizard App is a frontend, client-side, static Site that access the Weather API from the browser to obtain and display the weather data.<br>
 The aim of this project is to:<br>
-▶️ Discover how an App works when done as a server-side NodeJS Web Service as compared to a client-side React static Site
-▶️ Learn how to dockerise and deploy a simple, server-side App than has an input/output screen as a Web Service
-▶️ Proceed to develop and deploy a more extensive full-stack MERN App with MongoDB, Express, React and NodeJS and Docker as the next step
+▶️ Discover how an App works when done as a server-side NodeJS Web Service as compared to a client-side React static Site.<br>
+▶️ Learn how to dockerise and deploy a simple, server-side App than has an input/output screen as a Web Service.<br>
+▶️ Proceed to develop and deploy a more extensive full-stack MERN App with MongoDB, Express, React and NodeJS and Docker as the next step.<br>
 ► Native Render Site: <a href="https://b03-1weather-node.onrender.com/">Weather Node Page</a><br>
 ► Docker on Render Site: <a href="https://b03-1weather-node-docker.onrender.com/">Weather Node Page</a><br>
 ► Github Repo: <a href="https://github.com/andym388/b03_1weather-node">Source code for this NodeJS App</a><br>
