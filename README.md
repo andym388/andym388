@@ -79,21 +79,23 @@ When you click on the Recipe of the Result Page, the Recipe Page will be display
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
 <b>⭐ Weather Node</b><br>
-The frontend React Weather Wizard App above is re-written using the NodeJS runtime and the ExpressJS framework.<br>
-▶️ This Weather Node App is a standalone, backend, server-side App that accesses the O/S, databases, file system and other system resources as a fully-functional App.<br>
-▶️ It should be hosted natively on a full-stack hosting service such as Render or on Docker for the NodeJS App to process the incoming, server-side HTTPS request for Data obtained by calling the Weather API.<br>
-▶️ In contract, the React Weather Wizard App is a frontend, client-side App that access the Weather API from the browser to obtain and display the weather data.<br>
+The frontend, client-side React Weather Wizard App above is re-written using the NodeJS runtime and the ExpressJS framework as a standalone, backend, server-side App.<br>
+The Weather NodeJS App is deployed on a hosting service such as Render on Docker as a Web Service to process the incoming, server-side HTTPS request for Data obtained by calling the Weather API.<br>
+In contract, the React Weather Wizard App is a frontend, client-side, static Site that access the Weather API from the browser to obtain and display the weather data.<br>
+The aim of this project is to:<br>
+▶️ Discover how an App works when done as a server-side NodeJS Web Service as compared to a client-side React static Site
+▶️ Learn how to dockerise and deploy a simple, server-side App than has an input/output screen as a Web Service
+▶️ Proceed to develop and deploy a more extensive full-stack MERN App with MongoDB, Express, React and NodeJS and Docker as the next step
 ► Native Render Site: <a href="https://b03-1weather-node.onrender.com/">Weather Node Page</a><br>
 ► Docker on Render Site: <a href="https://b03-1weather-node-docker.onrender.com/">Weather Node Page</a><br>
 ► Github Repo: <a href="https://github.com/andym388/b03_1weather-node">Source code for this NodeJS App</a><br>
 
 <b>⭐ MERN Meal Planner</b><br>
-This full-stack MERN App comes with User Authentication. Password hashing ensures that users login credentials are secure.<br> 
-Additionally, the App uses token to provide a more secure authentication process for login and adding/saving of recipes.<br>
-Users will be able to create an account, log in, add/share recipes and save recipes private to themselves for a meal plan.<br>
-The Recipe API will be created using the NodeJS runtime and the ExpressJS framework.<br>
-The web client uses this API to authenticate into and access the database that is hosted on MongoDB Atlas.<br>
-The frontend React App will be deployed on Render. The backend NodeJS REST API will be deployed on Docker residing on Render hosting service. 
+The backend, server-side NodeJS REST Recipe API will be created using the NodeJS runtime and the ExpressJS framework. It will be deployed on Docker on Render as a Web Service.<br>
+The frontend web client React App will call this Recipe API to access the MongoDB Atlas database and to display the Recipes. It will be deployed on Render as a static Site<br>
+This full-stack MERN App comes with User Authentication to select Recipes for a Meal Plan. Password hashing ensures that users login credentials are secure.<br> 
+Additionally, the App uses token to provide a more secure authentication process for login and adding/saving of recipes for the Meal Plan.<br>
+Users will be able to create an account, log in, add/share recipes and save recipes private to themselves for a Meal Plan.<br>
 Users can access the App concurrently from anywhere in the world.<br>
 ► Docker on Render Site: <a href="https://b04-1meal-planner-mern.onrender.com/">MERN Meal Planner Page</a><br>
 ► Github Repo: <a href="https://github.com/andym388/b04_1meal-planner-mern">Source code for this NodeJS and React App</a><br>
